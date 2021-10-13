@@ -1,0 +1,10 @@
+.recipeTile-img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+.recipeTile-name {
+    max-width: 200px;
+    text-align: center;
+    margin: 12px 0;
+}
